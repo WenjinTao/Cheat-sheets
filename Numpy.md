@@ -1,3 +1,4 @@
+### Expand dimension
 
 X_train.shape
 - ([], 32, 32)
