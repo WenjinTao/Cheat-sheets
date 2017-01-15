@@ -10,12 +10,18 @@ X_train.shape
 
 ### Repeat element
 >>> x = np.array([[1,2],[3,4]])
+
 >>> np.repeat(x, 2)
+
 array([1, 1, 2, 2, 3, 3, 4, 4])
+
 >>> np.repeat(x, 3, axis=1)
+
 array([[1, 1, 1, 2, 2, 2],
        [3, 3, 3, 4, 4, 4]])
+       
 >>> np.repeat(x, [1, 2], axis=0)
+
 array([[1, 2],
        [3, 4],
        [3, 4]])
