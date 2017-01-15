@@ -1,4 +1,3 @@
 
-"""python
-  np.expand_dims(X_train, axis=3)
-"""
+> np.expand_dims(X_train, axis=3)
+
