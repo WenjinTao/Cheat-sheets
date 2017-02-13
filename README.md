@@ -12,6 +12,6 @@
 
 ## Video
 
-Convert MOV to MP4
+Convert MOV to MP4 using ffmpeg
 
-`ffmpeg -i movie.mov -vcodec copy -acodec copy out.mp4`
+`ffmpeg -i movie.mov -vcodec copy -acodec copy out.mp4`  This is super efficient!
