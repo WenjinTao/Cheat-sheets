@@ -9,3 +9,8 @@
 [Pandas DataFrame](http://pandas.pydata.org/pandas-docs/stable/api.html#dataframe)
 
 [Jupyter Equation](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
+
+## Video
+
+Convert MOV to MP4
+`ffmpeg -i movie.mov -vcodec copy -acodec copy out.mp4`
