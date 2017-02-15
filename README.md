@@ -10,6 +10,14 @@
 
 [Jupyter Equation](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
 
+## Math
+
+[Linear Algebra](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) 
+
+[Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
+
+[Statistics](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+
 ## Video
 
 Convert MOV to MP4 using ffmpeg
