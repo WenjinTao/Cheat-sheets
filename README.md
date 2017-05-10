@@ -2,6 +2,8 @@
 
 [Linux Tutorial](http://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
+- [chmod, file permission](https://www.cs.swarthmore.edu/help/chmod.html)
+
 [Basic vi Commands](http://www.cse.scu.edu/~yfang/coen11/vi-CheatSheet.pdf)
 
 [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
