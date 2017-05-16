@@ -8,6 +8,8 @@
 
 [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+- [Equations](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Typesetting%20Equations.html)
+
 [NumPy/SciPy/Pandas Cheat Sheet](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf)
 
 [Pandas DataFrame](http://pandas.pydata.org/pandas-docs/stable/api.html#dataframe)
