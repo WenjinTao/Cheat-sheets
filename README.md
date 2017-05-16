@@ -16,6 +16,8 @@
 
 ## Math
 
+[LaTex Symbols](http://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols)
+
 [Linear Algebra](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) 
 
 [Calculus](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
