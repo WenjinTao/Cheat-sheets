@@ -19,6 +19,7 @@
 ## Math
 
 [MathJax in Jupyter](http://nbviewer.jupyter.org/github/ipython/ipython/blob/1.x/examples/notebooks/Typesetting%20Math%20Using%20MathJax.ipynb)
+
 [LaTex Symbols](http://artofproblemsolving.com/wiki/index.php?title=LaTeX:Symbols)
 
 [Linear Algebra](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf) 
